@@ -7,7 +7,7 @@ build-backend = "hatchling.build"
 name = "fastapi-shell"
 description = 'An ipython shell for fastapi which automatically imports code and optionally opens a database connection'
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 license = "MIT"
 keywords = []
 authors = [
